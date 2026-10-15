@@ -1,0 +1,3 @@
+# Installed into a venv created with --system-site-packages.
+# OpenCV (python3-opencv) and numpy come from apt, so they are not listed here.
+ai-edge-litert
